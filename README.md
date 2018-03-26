@@ -12,7 +12,7 @@ Failures occur with the following configuration:
 
 URLs Tested:
 
-- FAIL - https://api.github.com/iammert/nocode/readme
+- FAIL - https://api.github.com/users/iammert/repos
 - PASS - https://api.apis.guru/v2/metrics.json
 
 Error:

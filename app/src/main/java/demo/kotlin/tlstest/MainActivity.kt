@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
                 .addInterceptor(loggingInterceptor)
                 .build()
 
-        val url1 = "https://api.github.com/iammert/nocode/readme"
+        val url1 = "https://api.github.com/users/iammert/repos"
         val url2 = "https://api.apis.guru/v2/metrics.json"
 
         fab1.setOnClickListener { test(url1) }
