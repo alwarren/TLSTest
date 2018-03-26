@@ -8,6 +8,7 @@ Failures occur with the following configuration:
 
 - minSdkVersion 19
 - OkHttp3 version 3.10.0
+- Nexus 6 API 19 Emulator
 
 URLs Tested:
 
